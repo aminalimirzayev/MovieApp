@@ -13,7 +13,7 @@ namespace Consoletasks3.Models
             set
             {
                 if (string.IsNullOrWhiteSpace(value))
-                    throw new ArgumentException("Title boş ola bilməz!");
+                    throw new ArgumentException("Title cannot be empty!");
                 _title = value;
             }
         }
@@ -24,7 +24,7 @@ namespace Consoletasks3.Models
             set
             {
                 if (value < 0)
-                    throw new ArgumentException("Year mənfi ola bilməz!");
+                    throw new ArgumentException("Year cannot be 0 or below!");
                 _year = value;
             }
         }

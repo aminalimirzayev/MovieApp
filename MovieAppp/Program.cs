@@ -76,7 +76,7 @@ namespace Consoletasks3
                         if (movie2 != null)
                         {
                             movie2.MarkAsUnwatched();
-                            manager.SaveMovies(movies2); // JSON-u yenilə
+                            manager.SaveMovies(movies2); 
                         }
                         else
                         {
