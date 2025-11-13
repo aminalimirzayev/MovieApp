@@ -1,0 +1,17 @@
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\bin\Debug\net8.0\MovieAppp.exe
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\bin\Debug\net8.0\MovieAppp.deps.json
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\bin\Debug\net8.0\MovieAppp.runtimeconfig.json
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\bin\Debug\net8.0\MovieAppp.dll
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\bin\Debug\net8.0\MovieAppp.pdb
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.csproj.AssemblyReference.cache
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.AssemblyInfo.cs
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.csproj.Up2Date
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.dll
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\refint\MovieAppp.dll
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.pdb
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\MovieAppp.genruntimeconfig.cache
+C:\Users\Amin\Desktop\MovieAppp\MovieAppp\obj\Debug\net8.0\ref\MovieAppp.dll

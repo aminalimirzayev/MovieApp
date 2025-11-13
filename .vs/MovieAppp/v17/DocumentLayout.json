@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amin\\Desktop\\MovieAppp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|c:\\users\\amin\\desktop\\movieappp\\movieappp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|solutionrelative:movieappp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|c:\\users\\amin\\desktop\\movieappp\\movieappp\\services\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|solutionrelative:movieappp\\services\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|c:\\users\\amin\\desktop\\movieappp\\movieappp\\interfaces\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|solutionrelative:movieappp\\interfaces\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|c:\\users\\amin\\desktop\\movieappp\\movieappp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|solutionrelative:movieappp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|c:\\users\\amin\\desktop\\movieappp\\movieappp\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|solutionrelative:movieappp\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|c:\\users\\amin\\desktop\\movieappp\\movieappp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|solutionrelative:movieappp\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|c:\\users\\amin\\desktop\\movieappp\\movieappp\\data\\movie.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEEEC0F8-C3A3-468F-8CFE-7003AF944DD4}|MovieAppp\\MovieAppp.csproj|solutionrelative:movieappp\\data\\movie.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieManager.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Services\\MovieManager.cs",
+              "RelativeDocumentMoniker": "MovieAppp\\Services\\MovieManager.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Services\\MovieManager.cs",
+              "RelativeToolTip": "MovieAppp\\Services\\MovieManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:15:14.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "movie.json",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Data\\movie.json",
+              "RelativeDocumentMoniker": "MovieAppp\\Data\\movie.json",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Data\\movie.json",
+              "RelativeToolTip": "MovieAppp\\Data\\movie.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T07:15:03.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Interfaces\\IPlayable.cs",
+              "RelativeDocumentMoniker": "MovieAppp\\Interfaces\\IPlayable.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Interfaces\\IPlayable.cs",
+              "RelativeToolTip": "MovieAppp\\Interfaces\\IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:14:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieAppp\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Models\\Genre.cs",
+              "RelativeToolTip": "MovieAppp\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:14:31.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieAppp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieAppp\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:14:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Models\\Media.cs",
+              "RelativeDocumentMoniker": "MovieAppp\\Models\\Media.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Models\\Media.cs",
+              "RelativeToolTip": "MovieAppp\\Models\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:14:00.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieAppp\\Program.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MovieAppp\\MovieAppp\\Program.cs",
+              "RelativeToolTip": "MovieAppp\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwGsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:12:11.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
